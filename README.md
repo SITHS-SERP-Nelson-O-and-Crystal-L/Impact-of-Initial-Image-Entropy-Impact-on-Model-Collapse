@@ -1,0 +1,1 @@
+# Impact-of-Initial-Image-Entropy-Impact-on-Model-Collapse
